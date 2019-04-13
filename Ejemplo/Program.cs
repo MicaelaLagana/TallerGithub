@@ -7,19 +7,34 @@ namespace Ejemplo
         static void Main(string[] args)
         {
 
+
             Persona p = new Persona("Pepito Flores", 67);
 
-            // Pepito cobra la jubilacion
+
             p.cobrar(8000);
 
-            // Pepito paga Netflix
+
             p.pagar(500);
 
-            // Muestra el saldo restante de pepito
             p.verSaldo();
 
-            // Esto hace que no se cierra la consola para poder leer lo que se imprime
+
+
+
+            Persona p2 = new Persona("Jorge Rodriguez", 30);
+
+
+            p2.hacerEjercicio(70);
+
+            p2.dormir(30);
+
+
+            p2.verEnergia();
+
+
             Console.ReadLine();
+
+         
 
         }
     }
