@@ -1,7 +1,10 @@
-# Taller de GitHub 
+# Taller de GitHub
+<<<<<<< HEAD
 Ejemplo para el taller de GitHub
-asdfghjkahdasd
-asdhabsdasd
+
+=======
+Ejemplo para el taller de GitHub jijo
+>>>>>>> 6fac7f72e4ec2dc7cf94425069b13243d1d40c3d
 
 <p align="center">
   <img src="https://orienten.me/media/institution/thumbnails/escuela-da-vinci_MoK2MAJ.png.180x180_q70_crop.jpg">
